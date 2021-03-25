@@ -1,5 +1,8 @@
 _repo: Mio-figlio_64810
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64810-h/images/cover.jpg
 creator:
   author:
     agent_name: Farina, Salvatore
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Salvatore_Farina
     - https://it.wikipedia.org/wiki/Salvatore_Farina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64810#Mio-figlio
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
